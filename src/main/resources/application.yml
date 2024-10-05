@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: root
-    password: Saadhvi03ss
+    password: xxx
     url: jdbc:mysql://localhost:3306/movies
   management:
     endpoints:
@@ -22,8 +22,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: saadhvi111@gmail.com
-    password: jscagivkkrxdcvak
+    username: x@gmail.com
+    password: xxx
     properties:
       mail:
         smtp:
